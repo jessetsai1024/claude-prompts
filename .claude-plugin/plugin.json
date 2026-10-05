@@ -1,0 +1,6 @@
+{
+  "name": "prompts",
+  "version": "0.1.0",
+  "description": "側邊欄的「我問過的」：主人這次對話打過的每一句話，點一下看全文、複製、放回輸入框。/prompts 開或關",
+  "author": { "name": "Jesse & 螢" }
+}
